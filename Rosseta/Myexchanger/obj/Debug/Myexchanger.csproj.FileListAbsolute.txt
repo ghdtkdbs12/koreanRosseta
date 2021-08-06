@@ -1,0 +1,10 @@
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\obj\Debug\Myexchanger.csproj.AssemblyReference.cache
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\obj\Debug\Myexchanger.Form1.resources
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\obj\Debug\Myexchanger.Properties.Resources.resources
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\obj\Debug\Myexchanger.csproj.GenerateResource.cache
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\obj\Debug\Myexchanger.csproj.CoreCompileInputs.cache
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\bin\Debug\Myexchanger.exe.config
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\bin\Debug\Myexchanger.exe
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\bin\Debug\Myexchanger.pdb
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\obj\Debug\Myexchanger.exe
+C:\Users\Seungjin hong\Google Drive\포트폴리오 정리\6차 과제 C#으로 게임 만들기\Myexchanger\obj\Debug\Myexchanger.pdb
